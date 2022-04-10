@@ -1,0 +1,36 @@
+[Info]
+name         = "Chie Satonaka"
+displayname  = "Chie Satonaka"
+versiondate  = 06,08,2015
+mugenversion = 1.0
+author       = "Son Of Aura"
+pal.defaults = 1,2,3,4,5,6,7,8,9,10,11,12
+LocalCoord   = 320;400
+
+[Files]
+cmd      = Chie.cmd
+cns      = Chie.cns
+st       = Chie.cns
+st2      = FX.cns
+st3      = StateZ.cns
+stcommon = Chie.cns
+sprite   = Chie.sff
+anim     = Chie.air
+sound    = Chie.snd
+pal1     = Chie.act
+pal2     = Chie.act
+pal3     = Chie.act
+pal4     = Chie.act
+pal5     = Chie.act
+pal6     = Chie.act
+
+pal7     = Chie.act
+pal8     = Chie.act
+pal9     = Chie.act
+pal10    = Chie.act
+pal11    = Chie.act
+pal12    = Chie.act
+
+[Arcade]
+intro.storyboard =
+ending.storyboard =

@@ -1,0 +1,58 @@
+This character is NOT finished yet, and I did NOT make it myself completely.
+I'm an amateur, so this has coding made from who I think belongs to:
+
+Websta
+Kohaku
+Yu-Toharu
+almost every professional Mugen author
+
+Coding for:
+
+Wave Dashing
+Just Defence
+Counter Hits
+Guard Voice
+Damage Voice
+Intro Timer
+Resets
+High Jumps
+Trip Bounce
+Palette Remapping
+Homing Variables
+
+Yes, I took the coding and used here. Sorry, but I'm overwhelmed by people.
+If you guys want the character taken down, I'll understand. I'll just keep it for myself.. for a while. ;>
+
+The coding I made myself, or edited, were:
+
+Charge Variables ;Such as burst fills, which was altered from damage voice.
+One More! Cancel ;Edited from Zenjido's kaeru's roman cancel.
+Defensive/One More! Bursts ;Edited from Yu-Toharu's Kirino's regular bursts.
+Hit Detection/Count
+Awakening ;Altered version of Kohaku's (Old?) Max Mode
+KO Voice
+
+Same goes for these, if you want them down, I'll take them down.
+
+
+This character is also missing some vital attributes such as:
+
+Damage Scaling
+Jump Variables
+SP Limits
+Persistent Defenses Boosts
+
+I'm working on all Persona 4 Arena and Ultimax characters, so criticism will be accepted. But like I've stated before, I'm an amateur, so please try to be reasonable.
+I'm working on remaking effects, such as hitsparks, so this character is using effects mostly from Ougon Musou Kyoku. They're the coolest looking ones I have.
+My programs are NOT professional, so don't expect fancy 3D graphics, what looks 3D is mostly just "skillful" work. Or more likely the work of Paint.NET, which is my most handy program.
+Go ahead and share this on your Mugen sites or stuff.. I'm gonna stay in my bubble and trusted websites.
+
+Some stupid personal stuff:
+
+I don't have money, my parents do.
+I won't be a dick as long as you properly reason with me.
+Bash one me if you want, call me a thief. Whatever. These characters were released to the public by my own will, I'll take them down, but everyone knows it's not permanent.
+I'm not a professional.
+Just know I'm trying to learn and make something here, original or not. If you want to rant about it, please reason or keep it to yourself.
+I'm not really the most active person, far from that. I stay up late (Pacific Time), I usually come and go on most websites. Maybe I could insert my e-mail address? But, like, I can't trust anyone with that right?
+You can find my e-mail address somewhere.. just think about where. Just, please. No hacking or theiving.
